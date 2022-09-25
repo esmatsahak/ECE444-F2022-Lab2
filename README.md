@@ -33,3 +33,23 @@ Webpage
 Commit 
 
 ![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity3_2.PNG)
+
+**Activity 4**
+
+Example 4-7 Commit
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity4_6.PNG)
+
+Email Screenshots
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity4_1.PNG)
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity4_2.PNG)
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity4_3.PNG)
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity4_4.PNG)
+
+Email Commit
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity4_6.PNG)
