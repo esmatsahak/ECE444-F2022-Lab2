@@ -15,3 +15,11 @@ Example 2-1 Webpage
 Example 2-1 Commit 
 
 ![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity2_2.PNG)
+
+Example 2-2 Webpage
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity2_3.PNG)
+
+Example 2-2 Commit
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab2/blob/main/images/Activity2_4.PNG)
